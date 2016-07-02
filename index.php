@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Nova qualquer coisa</title>
+        <title>Nova yuri</title>
     </head>
     <body>
         <?php
